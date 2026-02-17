@@ -31,7 +31,8 @@ Size: **1318 samples, 11 features**
 - Key drivers: older age, higher blood pressure, and elevated cardiac enzymes (CK-MB, Troponin) are associated with higher risk.
 
 ## Repository Structure
-- `MEDICAL_DATASET.ipynb` – analysis and modeling notebook
+- `medical_dataset_analysis.ipynb
+` – analysis and modeling notebook
 - `requirements.txt` – dependencies
 
 ## How to Run
